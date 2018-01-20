@@ -243,7 +243,7 @@ parser.add_argument(
 parser.add_argument(
     '--media',
     '-m',
-    default='A4',
+    default='letter',
     help='Select the size of the page (A4, A3, etc.)')
 parser.add_argument(
     '--minimum-page-length',
